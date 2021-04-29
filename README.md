@@ -17,7 +17,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Next.js](https://nextjs.org/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-
+## 🎨 Layout
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/podcastr-web1.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/podcastr-web2.png" width="400px" >	
+	
 
 ### Pré-requisitos
 
